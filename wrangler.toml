@@ -1,3 +1,11 @@
 name = "nextgenforward"
 main = "worker.js"
 compatibility_date = "2026-01-15"
+
+[[kv_namespaces]]
+binding = "TOPIC_MAP"
+id = "825307618451431f9978f3c6b19309be"
+
+[[routes]]
+pattern = "tgbot.zugsj.com"
+custom_domain = true
